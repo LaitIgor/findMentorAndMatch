@@ -1,0 +1,28 @@
+.content {
+    padding-top: 3rem;
+    margin-inline: auto;
+    max-width: 75%;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-between;
+}
+
+.block {
+    min-width: 40%;
+    padding: 10px 20px;
+    border: 2px solid black;
+    margin-bottom: 1rem;
+    display: flex;
+    flex-direction: column;
+    // flex-basis: auto;
+}
+
+.list {
+    margin-bottom: 20px;
+}
+
+.image {
+    width: auto;
+    border: 1px solid black;
+    align-self: center;
+}

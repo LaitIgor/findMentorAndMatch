@@ -1,0 +1,2 @@
+1. Generic btns
+2. Proper route names
